@@ -1,3 +1,3 @@
 # FAQ
 
-Please click on the Wiki [page]() to view all the Frequently Asked Questions!
+Please click on the Wiki [page](https://github.com/TUM-Aries-Lab/FAQ/wiki) to view all the Frequently Asked Questions!
